@@ -1,0 +1,5 @@
+
+- Raspberry Pi kit: amazon.in/dp/B0C7N5JXCY?psc=1&ref=ppx_pop_dt_b_product_details (Rapsberry Pi 4)  
+- Set up udev rules for TrueRNG device by following: https://github.com/euler357/TrueRNG/tree/2c8a06942a5a6c43266c8179ebdbd7b59add7a07/udev_rules 
+- 
+
