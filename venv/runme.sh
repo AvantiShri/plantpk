@@ -12,5 +12,8 @@ sudo apt install libopenblas-dev
 #Then I ran the tests:
 python3 ~/repos/TrueRNG/truerng_test.py
 
+#Installing the raspberry pi library
+pip install RPi.GPIO
+
 
 #I put this in ~/.bashrc to auto activate on startup: source /home/avanti/repos/plantpk/venv/truerng-env/bin/activate
